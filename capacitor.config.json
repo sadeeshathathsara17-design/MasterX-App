@@ -1,8 +1,0 @@
-{
-  "appId": "com.masterx.study",
-  "appName": "MasterX Study",
-  "webDir": "www",
-  "server": {
-    "androidScheme": "https"
-  }
-}
